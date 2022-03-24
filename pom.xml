@@ -851,7 +851,7 @@
             <link>https://docs.oracle.com/javaee/6/api</link>
           </links>
           <validateLinks>true</validateLinks>
-          <archive>
+          <archive> 
             <manifest>
               <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
               <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
